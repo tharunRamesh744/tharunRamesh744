@@ -1,16 +1,28 @@
-## Hi there 👋
+# Tharun Ramesh
 
-<!--
-**tharunRamesh744/tharunRamesh744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.E. Electronics and Communication Engineering student at Panimalar Engineering College, Chennai (Class of 2027, CGPA 8.2/10). Focused on software engineering, with a strong foundation in Java, data structures and problem solving. Seeking entry-level Software Engineer roles and internships.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Intern, Python and SQL | Nallas** (Dec 2024 – Jan 2025)
+Automated data-processing tasks with Python and wrote and optimized SQL queries for reporting.
+
+## Technical Skills
+
+- **Languages:** Java, Python, C, SQL
+- **Tools:** Git, GitHub, VS Code
+- **Core:** Data Structures and Algorithms, Object-Oriented Programming, Embedded Systems, Digital Logic
+
+## Problem Solving
+
+Around 200 problems solved on [LeetCode](https://leetcode.com/u/TharunRamesh/)
+
+## Certifications
+
+- Programming in Java (NPTEL)
+- Fundamentals of C Programming (Coursera)
+- Cyber Security (NASSCOM)
+
+## Contact
+
+tharunsanjai620@gmail.com · Chennai, India
